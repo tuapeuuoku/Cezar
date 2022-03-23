@@ -1,0 +1,15 @@
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.csproj.AssemblyReference.cache
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.AssemblyInfoInputs.cache
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.AssemblyInfo.cs
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.csproj.CoreCompileInputs.cache
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\bin\Debug\net6.0\Szyfrcezara.exe
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\bin\Debug\net6.0\Szyfrcezara.deps.json
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\bin\Debug\net6.0\Szyfrcezara.runtimeconfig.json
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\bin\Debug\net6.0\Szyfrcezara.dll
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\bin\Debug\net6.0\ref\Szyfrcezara.dll
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\bin\Debug\net6.0\Szyfrcezara.pdb
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.dll
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\ref\Szyfrcezara.dll
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.pdb
+C:\Users\miko\source\repos\Szyfrcezara\Szyfrcezara\obj\Debug\net6.0\Szyfrcezara.genruntimeconfig.cache
